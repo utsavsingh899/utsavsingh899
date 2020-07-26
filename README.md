@@ -1,3 +1,5 @@
+
+![image](https://github.com/utsavsingh899/utsavsingh899/blob/master/dino.gif)
 # 👋 Hey there!!
 ### I'm Utsav Singh and welcome to my brief intro..
 * 👨‍💻 I'm a undergraduate majoring in Computer Science & Engineering
